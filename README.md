@@ -15,7 +15,7 @@ A web-based 8-puzzle solver using the A* algorithm with two heuristics: Manhatta
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://ai-project1.streamlit.app/) *(Coming soon)*
+[View Live Demo](https://ai-project1.streamlit.app/)
 
 ## 📋 Prerequisites
 
